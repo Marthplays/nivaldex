@@ -1,3 +1,6 @@
-Vivemos num planeta azul. Os oceanos são os pulmões, produzindo 50% do oxigénio da Terra e absorvendo 30% do seu dióxido de carbono. São a fonte de muitos alimentos e medicamentos. Constituem uma parte fundamental da biosfera e são a base de grande parte da economia mundial, apoiando diferentes sectores como o turismo, a pesca e a navegação internacional. No entanto, a mão do homem está a fazer com que os oceanos enfrentem ameaças sem precedentes. Estima-se que, todos os anos, 11 milhões de toneladas de resíduos de plástico vão parar aos oceanos. A eutrofização contribui para o aparecimento de zonas mortas; cerca de 80% das águas residuais do mundo são descarregadas sem tratamento.
-A tecnologia da informação é essencial para conservar a biodiversidade dos oceanos e para estabelecer uma relação económica mais sustentável com o ambiente marinho. Sendo assim, no meio destes desafios, a tecnologia surgiu como uma ferramenta poderosa na luta para preservar e proteger os nossos oceanos. Com avanços inovadores em vários domínios, a tecnologia desempenha um papel crucial na monitorização, compreensão e atenuação dos impactos nos ecossistemas marinhos. 
-Por fim, ao entender sobre essa situação agravante, resolvemos desenvolver uma embarcação que terá como objetivo mapear a costa brasileira para localizar as zonas mortas, fazer análises meteorológicas e economizar seu consumo energético. Entre as funcionalidades de hardware, o acesso à internet é uma das principais, e foi escolhida por ter uma maior disponibilidade em comparação com as outras opções, e também pela parte econômica ser muito mais rentável.
+https://umsoplaneta.globo.com/biodiversidade/noticia/2023/05/19/exclusivo-onde-estao-as-zonas-mortas-no-litoral-e-nos-mananciais-brasileiros.ghtml
+
+https://almarwater.com/sustainable-technologies-for-ocean-conservation/
+
+https://www.kurerie.com/blog/world-oceans-day-the-role-of-technology-in-our-quest-for-ocean-conservation
+
